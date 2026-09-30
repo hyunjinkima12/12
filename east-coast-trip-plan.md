@@ -2,6 +2,7 @@
 
 > **업데이트(9/30):** 전체 일정(10/1~10/16, NC 골프 포함)과 “위 먼저 vs 아래 먼저” 비교는 [`trip-plan-v2-north-vs-south.md`](trip-plan-v2-north-vs-south.md) 참고. 이 문서는 그중 Part 1(위) 상세본.
 > **최신(v3):** 친구 일정 변경으로 뉴욕 → 보스턴 → 뉴헤이븐 순서 확정 → [`trip-plan-v3-nyc-boston-newhaven.md`](trip-plan-v3-nyc-boston-newhaven.md)
+> **최신 확정안(v4):** [`trip-plan-v4-final-part1.md`](trip-plan-v4-final-part1.md) — 메릴랜드 골프 · 뉴욕 민박 · 보스턴 4박 · 요일별 비용
 
 - 작성일: 2026-09-30 (수)
 - 출발: **10/2 (금)** 샬롯스빌(CHO) → 최대 귀가: **10/16 (금)**
