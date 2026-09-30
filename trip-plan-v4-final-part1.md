@@ -55,14 +55,26 @@
 | ~18:30 | 펠팍 민박 체크인 (무료주차 사전 요청 필수) |
 | 19:00 | 저녁: 포트리/펠팍 한인타운 |
 
-**메릴랜드 골프장 후보 (I-95 경로상)**
-| 코스 | 요금 | 특징 |
-|---|---|---|
-| **Bulle Rock** (Havre de Grace) | $97~126 | 피트 다이 설계, 전 LPGA 챔피언십 개최지, **I-95 바로 옆** → 우회 거의 없음. “이번 여행의 명코스 1회”로 추천 |
-| Pine Ridge (Lutherville, 볼티모어 시립) | $35~75 | 가성비. I-695에서 15분 정도 우회 |
-| Mount Pleasant (볼티모어 시립) | $25~65 | 가장 저렴. 역사 있는 시립 코스 |
+**메릴랜드 골프장 추천 순위 (10/2 금, I-95 북상 경로상)**
 
-→ Bulle Rock을 치면 이날 골프비가 2인 약 $195~253으로 표보다 $65~120 올라감.
+> 금요일은 코스에 따라 **주말요금**(Mountain Branch 등) 또는 **평일요금**(Wetlands, Rocky Point, Timbers)이 적용됨. 요금은 1인 18홀 기준.
+
+| 순위 | 코스 (위치) | 금요일 요금 (1인) | 2인 | 경로 이탈 | 한줄평 |
+|---|---|---|---|---|---|
+| **1** | **Bulle Rock** (Havre de Grace, I-95 exit 89) | **~$126** (카트 포함, 금 12시 이후 $10 할인 딜) | ~$253 | ~5분 | 피트 다이 설계, LPGA 챔피언십(2005~09) 개최, 메릴랜드 최고 퍼블릭. **“이번 여행 명코스 1회”** |
+| **2** | **The Wetlands** (Aberdeen, I-95 exit 85) | 평일 $38(걷기) / 카트 포함 ~$62 | ~$125 | ~5분 | 스코틀랜드풍 링크스 + 빠른 그린, 가성비 최고. **Bulle Rock 예산이 부담되면 1순위** |
+| **3** | **Rocky Point** (Essex, 볼티모어카운티) | 평일 카트 포함 $64 (걷기 $48) | ~$128 | ~15분 | 체서피크만 물가 뷰 코스. 경치 좋은 가성비 |
+| 4 | Mountain Branch (Joppa, I-95 exit 74) | **금요일=주말요금 $85** | ~$170 | ~10분 | 코스 평은 좋지만 금요일엔 가성비 ↓ (월~목이면 $69) |
+| 5 | Timbers at Troy (Elkridge, I-95 exit 41 부근) | 금 $32~48 (카트 포함, 정가 $53) | ~$65~106 | ~5분 | 가장 저렴·가장 먼저 도착(샬롯스빌에서 약 2시간 40분). 코스는 평범 |
+| 6 | Pine Ridge (Lutherville, 볼티모어 시립) | $35~75 | ~$70~150 | ~25분 | 호수 뷰 시립. 우회가 큼 |
+| 7 | Mount Pleasant (볼티모어 시립) | $25~65 | ~$50~130 | ~20분 | 역사 있는 시립, 시내 통과 필요 |
+
+**추천 조합**
+- 🏆 **한 번은 좋은 데서** → **Bulle Rock** (2인 ~$253, 표 기준보다 +$123)
+- 💰 **가성비** → **The Wetlands** (2인 ~$125, 표 기준 $130과 거의 동일)
+- 두 코스 모두 **메릴랜드 북쪽 끝(I-95 exit 85~89)** 이라 라운드 후 뉴저지까지 약 2.5~3시간으로 가장 가까움
+
+**금요일 타임라인 (Bulle Rock / Wetlands 기준)**: 06:00 샬롯스빌 출발 → ~09:30 도착 (DC 순환도로 통과 약 3.5시간) → 10:00 티오프 → 14:30 종료 → 15:00 출발 → ~18:00 펠팍 민박 (금요일 오후 NJ Turnpike 정체 포함)
 
 **저녁 맛집 후보 (포트리/펠팍)**: So Kong Dong(순두부, 포트리), Sa Rit Gol(포트리), Wooga(고기, 포트리), Gammeeok(설렁탕·보쌈, 포트리), Soosanghan Kote Dae Ji(돼지고기, 펠팍)
 
@@ -178,7 +190,7 @@
 ---
 
 ## 출처
-- 메릴랜드 골프: [Bulle Rock – GolfPass](https://www.golfpass.com/travel-advisor/courses/688-bulle-rock-golf-club), [Bulle Rock – GolfLink](https://www.golflink.com/golf-courses/md/havre-de-grace/bulle-rock-golf-course-1611556/rates-tee-times), [Baltimore green fees – greenfeetracker](https://www.greenfeetracker.com/maryland/baltimore), [Pine Ridge Rates](https://pineridgegolf.net/golf-rates/), [Mount Pleasant – birdiealerts](https://www.birdiealerts.com/baltimore/c/mount-pleasant-golf-course)
+- 메릴랜드 골프: [Wetlands – GolfPass 리뷰](https://www.golfpass.com/travel-advisor/articles/wetlands-golf-club-in-aberdeen-maryland-combines-scottish-touches-and-fast-greens-at-an-affordable-price), [Wetlands – GolfLink](https://www.golflink.com/golf-courses/md/aberdeen/wetlands-golf-club-1510956/rates-tee-times), [Rocky Point Rates](https://baltimoregolfing.com/course/rocky-point/rocky-point-rates), [Mountain Branch Rates](http://www.mountainbranch.com/-golf-ratesdress-policy), [Timbers at Troy – GolfLink](https://www.golflink.com/golf-courses/md/elkridge/the-timbers-at-troy-1558456/rates-tee-times), [Timbers at Troy – localgreenfees](https://www.localgreenfees.com/elkridge/the-timbers-at-troy/), [Bulle Rock – TeeTime Golf Pass 딜](https://teetimegolfpass.com/courses/md/havre-de-grace/bulle-rock/), [Bulle Rock – GolfPass](https://www.golfpass.com/travel-advisor/courses/688-bulle-rock-golf-club), [Bulle Rock – GolfLink](https://www.golflink.com/golf-courses/md/havre-de-grace/bulle-rock-golf-course-1611556/rates-tee-times), [Baltimore green fees – greenfeetracker](https://www.greenfeetracker.com/maryland/baltimore), [Pine Ridge Rates](https://pineridgegolf.net/golf-rates/), [Mount Pleasant – birdiealerts](https://www.birdiealerts.com/baltimore/c/mount-pleasant-golf-course)
 - 포트리/펠팍 맛집: [Yelp – Korean near Fort Lee](https://www.yelp.com/search?cflt=korean&find_loc=Fort+Lee%2C+NJ+07024), [OpenTable – Palisades Park Korean](https://www.opentable.com/cuisine/best-korean-restaurants-palisades-park-nj), [Tripadvisor – Fort Lee Korean](https://www.tripadvisor.com/Restaurants-g46446-c10661-Fort_Lee_New_Jersey.html)
 - 뉴욕 민박/교통: [조엘민박 펠팍점 – 민다](https://www.theminda.com/m/1.0/grp_minbak/minbak_view.html?minbak_code=3663), [Fort Lee commute guide](https://sellecksellsnj.com/blog/fort-lee-nj-commute-guide-bus-ferry-and-driving-routes-to-nyc)
 - NJ 의류 면세: [NJ Sales Tax Guide (S&U-4)](https://www.nj.gov/treasury/taxation/pdf/pubs/sales/su4.pdf), [TaxJar – NJ clothing](https://www.taxjar.com/blog/retail/is-clothing-taxable-in-new-jersey)
