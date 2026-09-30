@@ -94,6 +94,23 @@
 
 > 보스턴 근처에서 아침에 치려면 새벽 3~4시 출발이 필요해서 비현실적 → **뉴욕 쪽(Overpeck)에서 치고 이동**하는 게 정답.
 
+#### 🏌️ 베스페이지 블랙(Bethpage Black) 가능할까?
+- **위치**: 뉴욕주 롱아일랜드 Farmingdale (베스페이지 주립공원). 펠팍에서 약 45마일, 새벽엔 약 50~60분 (GWB → Cross Bronx → Throgs Neck → LIE)
+- US오픈(2002·2009), PGA 챔피언십(2019), **라이더컵(2025)** 개최. 걷기 전용, 입구에 “매우 어려운 코스” 경고판
+- ❌ **월요일(10/5)은 불가 — 블랙은 월요일 휴장(공휴일 제외)**. 10/5는 공휴일 아님
+- 비거주자 요금: 평일 $144 / **주말 $160** (걷기 전용, 카트 없음)
+- 방법 ① 온라인 예약: 비거주자는 5일 전 19:00 오픈, 28일에 1회 제한 → 10/4(일)분은 이미 9/29에 오픈되어 매진 가능성 높음
+- 방법 ② **차박 줄서기**: 전날 밤 주차장에 차 줄 세움(차 1대 최대 4인) → 04:30경 직원이 번호표 배부 → 첫 1시간 티타임(약 6팀)을 순서대로 배정. 차를 1시간 이상 비우면 자리 박탈. 주말은 전날 16:00~19:00 도착 권장
+
+**현실적인 선택지**
+| 안 | 일정 | 비용 (2인) | 장단점 |
+|---|---|---|---|
+| **A. 일요일(10/4) 블랙 차박** | 토 저녁식사 후 **18:00~19:00 펠팍 출발** → 주차장 차박 → 04:30 번호표 → 07:00경 티오프 → 12:30 종료 → 14:00 펠팍 복귀 → 일요일 오후 쇼핑 | 그린피 $320 + 톨 ~$30 (GWB $14.79~16.79 + Throgs Neck $7.46×2) | 버킷리스트 코스. 대신 **토요일 민박 1박(₩22만) 날리고 토요일 쇼핑 단축**, 주말은 경쟁 치열해 못 칠 위험 |
+| **B. 월요일(10/5) 베스페이지 레드** | **05:00 펠팍 출발** → 06:00 도착 → 07:00경 티오프 → 12:00 종료 → 보스턴 | 레드 비거주자 평일 $140 ×2 = $280 (또는 블루/옐로 $38) | 블랙의 “형제” 챔피언십 코스. **월요일 예약은 9/30(오늘) 19:00 오픈**. 그린 코스는 2026년 휴장 중. 레드 월요일 운영 여부는 10월 코스 캘린더로 확인 필요 |
+| C. 월요일 Overpeck (기존안) | 07:00 티오프, 숙소 10분 | ~$130 | 가장 싸고 편함 |
+
+**B안이면 보스턴 가는 길 추천: 포트제퍼슨 → 브리지포트 카페리** (베스페이지에서 40분). 월요일 비수기 요금 차+운전자 $78 + 동승자 $25 (+예약 없이 가면 $3) = **약 $103**. 롱아일랜드 → 뉴욕 시내 → I-95 정체를 피하고 1시간 15분 배 타고 코네티컷으로 건너감 → 보스턴까지 약 2.5시간.
+
 ### 10/6 (화) — 보스턴 시내 + 케임브리지
 - Braintree 역 주차 (평일 $9) → 레드라인 (퀸시 숙소면 도보로 역까지)
 - 프리덤 트레일 → 퀸시마켓/패뉴얼홀 → 노스엔드(카놀리) → 레드라인으로 하버드 스퀘어·MIT → 저녁
@@ -194,6 +211,7 @@
 - 포트리/펠팍 맛집: [Yelp – Korean near Fort Lee](https://www.yelp.com/search?cflt=korean&find_loc=Fort+Lee%2C+NJ+07024), [OpenTable – Palisades Park Korean](https://www.opentable.com/cuisine/best-korean-restaurants-palisades-park-nj), [Tripadvisor – Fort Lee Korean](https://www.tripadvisor.com/Restaurants-g46446-c10661-Fort_Lee_New_Jersey.html)
 - 뉴욕 민박/교통: [조엘민박 펠팍점 – 민다](https://www.theminda.com/m/1.0/grp_minbak/minbak_view.html?minbak_code=3663), [Fort Lee commute guide](https://sellecksellsnj.com/blog/fort-lee-nj-commute-guide-bus-ferry-and-driving-routes-to-nyc)
 - NJ 의류 면세: [NJ Sales Tax Guide (S&U-4)](https://www.nj.gov/treasury/taxation/pdf/pubs/sales/su4.pdf), [TaxJar – NJ clothing](https://www.taxjar.com/blog/retail/is-clothing-taxable-in-new-jersey)
+- 베스페이지 블랙/레드/페리: [NY State Parks – Bethpage](https://parks.ny.gov/visit/golf-courses/bethpage-state-park-golf-courses), [Golf on Long Island – 2026 Black 개장·Green 휴장](https://golfonlongisland.com/2026/04/08/bethpage-black-opens-april-15-green-course-remains-closed/), [golf.com – 차박 방법](https://golf.com/news/features/8-ways-make-most-sleeping-bethpage-black-parking-lot/), [golf.com – 티타임 4가지 방법](https://golf.com/travel/bethpage-black-tee-time-how/), [greenfeetracker – Black 요금](https://www.greenfeetracker.com/new-york/long-island/bethpage-black-golf-course), [Throgs Neck 톨](https://georgewashingtonbridgetoll.com/throgs-neck-bridge-toll), [Bridgeport–Port Jefferson Ferry 요금](https://www.88844ferry.com/schedule)
 - 골프(뉴욕권/보스턴): [Bergen County Golf Rates](https://golfbergencounty.com/rates), [City of Boston Golf](https://www.cityofbostongolf.com/course/rates), [Sleeping Giant Rates](https://sleepinggiantgolfcourse.com/rates)
 - 보스턴 숙소/주차: [보스턴 한인민박 – 민다](https://www.theminda.com/main/list.php?category=005001004), [KAYAK – Boston motels](https://www.kayak.com/Boston-Hotels_Motel.Tmotel.5357.hotel.ksp), [KAYAK – Braintree](https://www.kayak.com/Braintree-Hotels.29222.hotel.ksp), [Hyatt Place Braintree – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41474-d89626-Reviews-Hyatt_Place_Boston_Braintree-Braintree_Massachusetts.html), [Hyatt Place Braintree – Priceline](https://www.priceline.com/hotel-deals/en-us/P3000008607/H42019/hyatt-place-boston-braintree.ssp), [Comfort Inn Randolph – Booking reviews](https://www.booking.com/reviews/us/hotel/comfort-inn-randolph.html), [Comfort Inn Randolph – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41779-d89827-Reviews-Comfort_Inn_Randolph_Boston-Randolph_Massachusetts.html), [Hampton Inn Braintree – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41474-d224404-Reviews-Hampton_Inn_Boston_Braintree-Braintree_Massachusetts.html), [Travelocity – Braintree hotels](https://www.travelocity.com/Braintree-Hotels.d6806.Travel-Guide-Hotels), [Tripadvisor – Randolph hotels](https://www.tripadvisor.com/Hotels-g41779-Randolph_Massachusetts-Hotels.html), [Sonesta Select Foxborough – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41573-d94178-Reviews-Sonesta_Select_Boston_Foxborough_Mansfield-Foxborough_Massachusetts.html), [Sonesta Select Foxborough – Booking reviews](https://www.booking.com/reviews/us/hotel/sonesta-select-boston-foxborough-mansfield.html), [Airbnb – Quincy](https://www.airbnb.com/quincy-ma/stays), [Boston conferences 2026 – EMC](https://emcoutdoor.com/boston-conferences-2026-an-ooh-planning-guide/), [New Haven cheap hotels – Orbitz](https://www.orbitz.com/New-Haven-Hotels-Cheap-Hotels.0-0-d180036-tCheapHotels.Travel-Guide-Filter-Hotels), [Hilton Dedham – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41521-d89671-Reviews-Hilton_Boston_Dedham-Dedham_Massachusetts.html), [Walpole Motel – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41879-d1632690-Reviews-The_Walpole_Motel-Walpole_Massachusetts.html), [Extended Stay Braintree – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41474-d235269-Reviews-Extended_Stay_America_Boston_Braintree-Braintree_Massachusetts.html), [Motel 6 Danvers – Priceline](https://www.priceline.com/hotel-deals/en-us/P3000008646/H17157704/motel-6-danvers-ma-boston-north.ssp), [MBTA Parking](https://www.mbta.com/parking/stations-and-rates)
 - 세일럼/뉴포트: [Tripadvisor – Salem October weekday](https://www.tripadvisor.com/ShowTopic-g60954-i1100-k15402647-Salem_on_an_October_weekday-Salem_Massachusetts.html), [tripprof – Salem 2026 crowds](https://tripprof.com/en/blog/salem-halloween-2026-crowds-alternatives/), [Discover Newport – Parking](https://www.discovernewport.org/blog/post/the-ultimate-guide-to-parking-in-newport-ri/), [Discover Newport – Cliff Walk](https://www.discovernewport.org/things-to-do/cliff-walk/)
