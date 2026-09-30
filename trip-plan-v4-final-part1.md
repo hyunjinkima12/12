@@ -109,14 +109,19 @@
 
 ## 3. 보스턴 숙소 — 남쪽 거점 추천 (10/5~10/9, 월~목 4박)
 
-**왜 남쪽(Walpole/Braintree)?** 월요일 뉴욕에서 올라오는 길, George Wright(하이드파크), 금요일 뉴포트 출발 — 4개 중 3개 동선이 남쪽. 세일럼만 북쪽(차로 약 1시간).
+**왜 남쪽(Braintree/Randolph/Dedham)?** 월요일 뉴욕에서 올라오는 길, George Wright(하이드파크), 금요일 뉴포트 출발 — 4개 중 3개 동선이 남쪽. 세일럼만 북쪽(차로 약 1시간).
 
-| 옵션 | 가격 | 주차 | 비고 |
-|---|---|---|---|
-| **보스턴 한인민박 개인실** (민다) | ₩103,700~ (≈$82~) | 숙소별 확인 | 최저가 후보, 수량 적음 |
-| **The Walpole Motel** (Walpole) | $105~117 | 무료 | 남쪽 거점, **1순위** |
-| Hyatt Place Braintree | $128~ | 무료 | Braintree 역 가까움, 조금 더 쾌적 |
-| Motel 6 Danvers (북쪽) | $92~108~ | 무료 | 세일럼 10분이지만 나머지 동선이 멀어짐 |
+> 🔄 **수정(리뷰 확인 후):** 이전에 1순위로 넣었던 The Walpole Motel은 평점이 낮아(Tripadvisor 2/5, Booking 5.3) **제외**. Extended Stay Braintree도 Braintree 6곳 중 6위(2/5)라 제외.
+
+| 순위 | 숙소 | 공개 가격 (1박) | 평점 | 조식 | 주차 | 포인트 |
+|---|---|---|---|---|---|---|
+| **1** | **Hyatt Place Boston/Braintree** | $103~124 (날짜 따라 $212까지) | **4.6/5** (1,336건), 9.0/10 | ✅ 무료 뷔페 | ✅ 무료 | 가성비·품질 최상. 쇼핑몰(South Shore Plaza) 붙어 있음. Braintree 역까지 차로 5분 → 역주차 $9 + 레드라인 |
+| **2** | **Comfort Inn Randolph – Boston** | 평균 $107, 최저 $83 (좋은 딜 $122~171) | Booking 7.8 (410건), Trivago 7.5 | ✅ 무료 (와플) | ✅ 무료 | **실제 최저가 + 조식.** 깨끗하다는 평. Braintree 역 차로 10분 |
+| 3 | Hilton Boston/Dedham | 평균 $180 (최저 $90 사례) | Tripadvisor 3/5 (1,446건) | ❌ | ✅ 무료 | **George Wright까지 가장 가까움**. 딜 뜨면 선택 |
+| (참고) | 보스턴 한인민박 (민다) | ₩103,700~ (≈$82~) | — | 숙소별 | 숙소별 | 등록 숙소 중 “보스턴의 일상”은 **렉싱턴(북서쪽)** — 남쪽 거점 동선과는 안 맞음 |
+| ❌ | The Walpole Motel / Extended Stay Braintree | $86~120 | 2/5 | — | — | 싼 대신 청결·상태 불만 다수 → 비추천 |
+
+**결론:** ① **Hyatt Place Braintree** 가 $130 이하로 잡히면 바로 예약. ② $150 넘게 나오면 **Comfort Inn Randolph**. 둘 다 조식 포함이라 2인 아침값(하루 약 $20~30)까지 절약.
 
 표에서는 **1박 $120 (세금 포함 평균)** 으로 계산 → 4박 $480.
 
@@ -141,7 +146,7 @@
 
 1. [ ] 한인민박 10/2~10/5 예약 — **무료주차 사전 요청**
 2. [ ] 메릴랜드 골프 10/2(금) 오전 10시 전후 티타임 (Bulle Rock or Pine Ridge)
-3. [ ] 보스턴 남쪽 숙소 10/5~10/9, 4박 (Walpole Motel 1순위, 무료취소 요금)
+3. [ ] 보스턴 남쪽 숙소 10/5~10/9, 4박 (Hyatt Place Braintree 1순위 → Comfort Inn Randolph 2순위, 무료취소 요금)
 4. [ ] Overpeck 10/5(월) 07:00대 티타임 (golfbergencounty.com)
 5. [ ] George Wright 10/7(수) 티타임 (cityofbostongolf.com)
 6. [ ] 개인 E-ZPass 챙기기
@@ -154,7 +159,7 @@
 - 뉴욕 민박/교통: [조엘민박 펠팍점 – 민다](https://www.theminda.com/m/1.0/grp_minbak/minbak_view.html?minbak_code=3663), [Fort Lee commute guide](https://sellecksellsnj.com/blog/fort-lee-nj-commute-guide-bus-ferry-and-driving-routes-to-nyc)
 - NJ 의류 면세: [NJ Sales Tax Guide (S&U-4)](https://www.nj.gov/treasury/taxation/pdf/pubs/sales/su4.pdf), [TaxJar – NJ clothing](https://www.taxjar.com/blog/retail/is-clothing-taxable-in-new-jersey)
 - 골프(뉴욕권/보스턴): [Bergen County Golf Rates](https://golfbergencounty.com/rates), [City of Boston Golf](https://www.cityofbostongolf.com/course/rates), [Sleeping Giant Rates](https://sleepinggiantgolfcourse.com/rates)
-- 보스턴 숙소/주차: [보스턴 한인민박 – 민다](https://www.theminda.com/main/list.php?category=005001004), [KAYAK – Boston motels](https://www.kayak.com/Boston-Hotels_Motel.Tmotel.5357.hotel.ksp), [KAYAK – Braintree](https://www.kayak.com/Braintree-Hotels.29222.hotel.ksp), [Motel 6 Danvers – Priceline](https://www.priceline.com/hotel-deals/en-us/P3000008646/H17157704/motel-6-danvers-ma-boston-north.ssp), [MBTA Parking](https://www.mbta.com/parking/stations-and-rates)
+- 보스턴 숙소/주차: [보스턴 한인민박 – 민다](https://www.theminda.com/main/list.php?category=005001004), [KAYAK – Boston motels](https://www.kayak.com/Boston-Hotels_Motel.Tmotel.5357.hotel.ksp), [KAYAK – Braintree](https://www.kayak.com/Braintree-Hotels.29222.hotel.ksp), [Hyatt Place Braintree – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41474-d89626-Reviews-Hyatt_Place_Boston_Braintree-Braintree_Massachusetts.html), [Hyatt Place Braintree – Priceline](https://www.priceline.com/hotel-deals/en-us/P3000008607/H42019/hyatt-place-boston-braintree.ssp), [Comfort Inn Randolph – Booking reviews](https://www.booking.com/reviews/us/hotel/comfort-inn-randolph.html), [Comfort Inn Randolph – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41779-d89827-Reviews-Comfort_Inn_Randolph_Boston-Randolph_Massachusetts.html), [Hilton Dedham – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41521-d89671-Reviews-Hilton_Boston_Dedham-Dedham_Massachusetts.html), [Walpole Motel – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41879-d1632690-Reviews-The_Walpole_Motel-Walpole_Massachusetts.html), [Extended Stay Braintree – Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g41474-d235269-Reviews-Extended_Stay_America_Boston_Braintree-Braintree_Massachusetts.html), [Motel 6 Danvers – Priceline](https://www.priceline.com/hotel-deals/en-us/P3000008646/H17157704/motel-6-danvers-ma-boston-north.ssp), [MBTA Parking](https://www.mbta.com/parking/stations-and-rates)
 - 세일럼/뉴포트: [Tripadvisor – Salem October weekday](https://www.tripadvisor.com/ShowTopic-g60954-i1100-k15402647-Salem_on_an_October_weekday-Salem_Massachusetts.html), [tripprof – Salem 2026 crowds](https://tripprof.com/en/blog/salem-halloween-2026-crowds-alternatives/), [Discover Newport – Parking](https://www.discovernewport.org/blog/post/the-ultimate-guide-to-parking-in-newport-ri/), [Discover Newport – Cliff Walk](https://www.discovernewport.org/things-to-do/cliff-walk/)
 - 뉴헤이븐: [Yale Family Weekend](https://college.yale.edu/events/family-weekend), [Orbitz – New Haven cheap hotels](https://www.orbitz.com/New-Haven-Hotels-Cheap-Hotels.0-0-d180036-tCheapHotels.Travel-Guide-Filter-Hotels)
 - 통행료/유가: [GWB 2026 Toll](https://georgewashingtonbridgetoll.com/2026-toll-rates), [MTA 혼잡통행료](https://www.mta.info/fares-tolls/tolls/congestion-relief-zone/about), [AAA Sept 2026](https://newsroom.aaa.com/2026/09/national-average-climbs-nearly-5-cents-since-last-week/)
