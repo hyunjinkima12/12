@@ -10,7 +10,7 @@
 
 | 날짜 | 오전 | 오후 | 저녁 |
 |---|---|---|---|
-| **10/5 (월)** | (허드슨 힐스 골프 → 이동) | ~16:00 체크인 | 🟡 **시포트 해산물** (Yankee Lobster / Row 34) + 항구 야경 |
+| **10/5 (월)** | (허드슨 힐스 골프 → 이동) | ~16:00 백베이 숙소 체크인 | 🟡 **Row 34 Kenmore 오이스터 해피아워** (예약 가능) |
 | **10/6 (화)** | 🟡 프리덤 트레일 | ✅ 노스엔드 점심·카놀리 → ✅ **뉴베리 스트리트 쇼핑** | ✅ **파스타** (Carmelina's / Giacomo's) |
 | **10/7 (수)** | 🟡 ⛳ **George Wright** | 🟡 하버드·MIT (케임브리지) | 🟡 **한국 술집 – 올스턴** (명동1가 → 곱창스토리) |
 | **10/8 (목)** | 🟡 **세일럼** (10월 할로윈 축제, 기차) | 세일럼 | 🟡 **Neptune Oyster** (보스턴 최고 굴·랍스터롤) |
@@ -18,14 +18,16 @@
 
 ---
 
-## 10/5 (월) — 도착 + 첫 저녁: 보스턴 해산물
-| 옵션 | 분위기 | 메뉴 | 메모 |
-|---|---|---|---|
-| **Yankee Lobster** (시포트) | 캐주얼, 저렴 | 랍스터롤, 클램차우더 | 꾸밈없는 현지 해산물집 |
-| **Row 34** (시포트) | 세련된 오이스터바 | 굴, 튀긴 조개, 랍스터롤 | 당일 들어온 해산물로 메뉴 바뀜 |
-| Boston Sail Loft (워터프런트) | 바닷가 펍 | **클램차우더** (차우더 대회 다수 우승) | 퀸시마켓 근처 |
+## 10/5 (월) — 도착 + 첫 저녁: 오이스터바 (숙소 백베이 기준)
+| 순위 | 가게 | 숙소에서 | 가격 | 웨이팅 | 포인트 |
+|---|---|---|---|---|---|
+| **1** | **Row 34 – Kenmore Square** (498 Commonwealth Ave) | 도보 10~15분 / 그린라인 Kenmore역 앞 | **해피아워 월~금 16~18시 셰프 셀렉트 굴 $1** (1인 최대 12개, 바·라운지) | **예약 가능** (OpenTable, 617-213-7750) | 시포트 Row 34의 2호점. 월~금 16~22시 |
+| 2 | **Select Oyster Bar** (50 Gloucester St, 백베이) | 도보 5~10분 | 1인 $31~50 | 예약 가능 (857-239-8064) | 미쉐린 가이드 등재, "가장 신선한 굴" 평. 월 11:30~21:30 |
+| (참고) | Saltie Girl (백베이) | 도보권 | 1인 $100+ | 좌석 적어 대기 | 맛은 최고 평, 비싸고 작음 → 이번 조건엔 비추천 |
+| (저렴) | Petit Robert Bistro / The Berkeley / Rochambeau | 백베이 | 월요일 $1 굴 (각 16~18시 / 17시~ / 15~18시) | — | 굴만 싸게 맛보기 |
 
-→ 식사 후 **시포트 하버워크 야경** 산책. 월요일엔 피곤할 테니 가볍게.
+→ **추천: 17:00 Row 34 Kenmore 바에서 $1 굴 해피아워 → 이어서 랍스터롤 등 식사.** 해피아워를 놓치면 Select Oyster Bar 예약.
+※ Island Creek Oyster Bar(켄모어)는 폐업, 그 자리가 Row 34 Kenmore.
 
 ## 10/6 (화) — 노스엔드 + 뉴베리 (오후·저녁 고정)
 | 시간 | 일정 |
@@ -84,6 +86,7 @@
 5. **월요일 저녁**: 캐주얼(Yankee Lobster) vs 세련된(Row 34)?
 
 ## 출처
+- 오이스터바: [Row 34 Kenmore – Hours](https://www.row34.com/location/row34-kenmore-square/), [Row 34 Kenmore – OpenTable](https://www.opentable.com/r/row-34-kenmore-boston), [Select Oyster Bar – Michelin](https://guide.michelin.com/us/en/massachusetts/boston_2914838/restaurant/select-oyster-bar), [Select Oyster Bar – Yelp](https://www.yelp.com/biz/select-oyster-bar-boston), [Saltie Girl – Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g60745-d10480393-Reviews-Saltie_Girl-Boston_Massachusetts.html), [BostonChefs – Dollar oysters](https://www.bostonchefs.com/holiday/dollar-oysters-boston/), [Island Creek (폐업) – Yelp](https://www.yelp.com/biz/island-creek-oyster-bar-boston)
 - 해산물: [The Infatuation – Best Seafood Boston](https://www.theinfatuation.com/boston/guides/best-seafood-restaurants-boston), [Cozymeal – Best Seafood Boston 2026](https://www.cozymeal.com/magazine/best-seafood-in-boston), [Neptune Oyster – Yelp](https://www.yelp.com/biz/neptune-oyster-boston), [Neptune Oyster – Michelin](https://guide.michelin.com/us/en/massachusetts/boston_2914838/restaurant/neptune-oyster)
 - 파스타: [Yelp – Best Pasta North End](https://www.yelp.com/search?find_desc=best+pasta&find_loc=North+End%2C+Boston%2C+MA), [Giacomo's – Yelp](https://www.yelp.com/biz/giacomos-ristorante-boston-boston), [Giacomo's – OpenTable](https://www.opentable.com/r/giacomos-ristorante-north-end-boston)
 - 골프: [City of Boston Golf Rates](https://www.cityofbostongolf.com/course/rates), [carl.golf – George Wright](https://www.carl.golf/blog/george-wright-golf-course-review), [Golf Digest – Best Boston public courses](https://www.golfdigest.com/courses/guides/best-boston-public-courses), [Granite Links – Golf](https://www.granitelinks.com/golf)
