@@ -32,6 +32,16 @@
 | 19:00 | 🍝 **정해둔 이탈리아 식당** ✅ — 이름 확인 필요 |
 | (식후) | 🧁 **Mike's Pastry** (300 Hanover St, 노스엔드, ~22시) — 저녁 식당이 노스엔드면 식후 디저트로. 현금 준비 |
 
+### 수 10/7 골프 후보 (George Wright 외, 숙소 베이 빌리지 기준)
+| 코스 | 숙소에서 (차) | 1인 요금 (평일) | 상태·특징 |
+|---|---|---|---|
+| **William J. Devine (프랭클린 파크)** | 약 15분 | 비거주자 $61 (+카트) | Golfweek 2026 매사추세츠 퍼블릭 9위, 1896년 개장. 연습장 없음, 진행 느린 편 |
+| **Granite Links (퀸시)** | 약 20~25분 | **$165** (카트·연습볼 포함) | 27홀, 보스턴 스카이라인·항구 뷰. 경치 최고, 가격 최고 |
+| **Pinehills (플리머스) – Jones / Nicklaus** | 약 45~50분 | 월~목 **$140** (14:30 이후 $100), 카트·연습볼 포함 (10/18까지) | **상태 최상**(빠른 그린, 관리 좋음), 리스 존스·잭 니클라우스 2세 설계 |
+| Brookline (Putterham) | 약 20분 | 비거주자 $45 (월~목) | "시립치고 상태 좋음" 평도 있으나 평점 엇갈림. 7일 전 예약 |
+| Newton Commonwealth | 약 20분 | $45 | 언덕 많은 짧은 코스, 상태 무난 (Yelp 3.1) |
+| ✕ Ponkapoag (캔턴) | 약 25분 | $27 | 싸지만 **관리 상태 평균 이하** 리뷰 다수 |
+
 ### 수 10/7
 | 시간 | 일정 |
 |---|---|
@@ -70,6 +80,7 @@
 - 굴: [Select Oyster Bar – Michelin](https://guide.michelin.com/us/en/massachusetts/boston_2914838/restaurant/select-oyster-bar), [Select Oyster Bar – Yelp](https://www.yelp.com/biz/select-oyster-bar-boston), [Boston Magazine – Best Raw Bars](https://www.bostonmagazine.com/restaurants/best-raw-bars-in-boston/)
 - 파스타: [The Infatuation – Pasta Boston](https://www.theinfatuation.com/boston/cuisines/pasta), [Boston Magazine – Best Italian](https://www.bostonmagazine.com/restaurants/best-italian-restaurants-boston/), [Yelp – Best Pasta North End](https://www.yelp.com/search?find_desc=best+pasta&find_loc=North+End%2C+Boston%2C+MA), [Giacomo's – Yelp](https://www.yelp.com/biz/giacomos-ristorante-boston-boston)
 - 골프: [City of Boston Golf](https://www.cityofbostongolf.com/course/rates), [Golf Digest – Best Boston public](https://www.golfdigest.com/courses/guides/best-boston-public-courses)
+- 보스턴 골프 후보: [City of Boston Golf 2026 Rates](https://cityofbostongolf.com/course/rates), [carl.golf – Devine](https://carl.golf/blog/william-j-devine-golf-course-review), [Granite Links](https://www.granitelinks.com/golf), [Pinehills Rates](https://www.pinehillsgolf.com/rates-policies/), [Pinehills Jones – GolfPass](https://www.golfpass.com/travel-advisor/courses/21156-pinehills-golf-club-jones-course), [Brookline Rates](https://www.brooklinegolf.com/rates/), [Newton Commonwealth Rates](https://newtongc.com/rates/), [carl.golf – Ponkapoag](https://carl.golf/blog/ponkapoag-golf-course-review)
 - 한국 술집: [Gopchang Story – Yelp](https://www.yelp.com/biz/gopchang-story-boston), [Myung Dong 1st Ave – Yelp](https://www.yelp.com/biz/myung-dong-1st-ave-allston?start=180), [SOJUba – Yelp](https://www.yelp.com/biz/sojuba-boston)
 - 목 저녁/디저트: [Toro – Reservations](https://www.toro-restaurant.com/reservations), [Toro – Michelin](https://guide.michelin.com/us/en/massachusetts/boston_2914838/restaurant/toro), [Barcelona South End – OpenTable](https://www.opentable.com/r/barcelona-wine-bar-south-end-boston), [Barcelona – Yelp](https://www.yelp.com/biz/barcelona-wine-bar-south-end-boston-6), [Daily Catch North End](https://thedailycatch.com/location/north-end/), [Daily Catch – Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g60745-d323002-Reviews-The_Daily_Catch_North_End-Boston_Massachusetts.html), [Mike's Pastry – Yelp](https://www.yelp.com/biz/mikes-pastry-boston)
 - 근교: [Salem 주차](https://www.hauntedhappenings.org/maps-info/parking-directions/), [Salem.org – Parking](https://www.salem.org/travel-info/parking/), [Pure Wander – Day trips](https://purewander.com/best-day-trips-from-boston-ma/)
