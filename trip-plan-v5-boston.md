@@ -10,24 +10,24 @@
 
 | 날짜 | 오전 | 오후 | 저녁 |
 |---|---|---|---|
-| **10/5 (월)** | (허드슨 힐스 골프 → 이동) | ~16:00 백베이 숙소 체크인 | 🟡 **Row 34 Kenmore 오이스터 해피아워** (예약 가능) |
-| **10/6 (화)** | 🟡 프리덤 트레일 | ✅ 노스엔드 점심·카놀리 → ✅ **뉴베리 스트리트 쇼핑** | ✅ **파스타** (Carmelina's / Giacomo's) |
+| **10/5 (월)** | (허드슨 힐스 골프 → 이동) | ~16:00 백베이 숙소 체크인 | 🟡 **Select Oyster Bar** (굴 전문, 예약 가능) |
+| **10/6 (화)** | 🟡 프리덤 트레일 | ✅ 노스엔드 점심(🟡 Neptune Oyster)·카놀리 → ✅ **뉴베리 스트리트 쇼핑** | ✅ **파스타** (Carmelina's / Giacomo's) |
 | **10/7 (수)** | 🟡 ⛳ **George Wright** | 🟡 하버드·MIT (케임브리지) | 🟡 **한국 술집 – 올스턴** (명동1가 → 곱창스토리) |
-| **10/8 (목)** | 🟡 **세일럼** (10월 할로윈 축제, 기차) | 세일럼 | 🟡 **Neptune Oyster** (보스턴 최고 굴·랍스터롤) |
+| **10/8 (목)** | 🟡 **차로 노스쇼어**: 세일럼 | 록포트·글로스터 해안 | 🟡 바닷가 해산물 |
 | **10/9 (금)** | ✅ 체크아웃 → 출발 | | |
 
 ---
 
-## 10/5 (월) — 도착 + 첫 저녁: 오이스터바 (숙소 백베이 기준)
-| 순위 | 가게 | 숙소에서 | 가격 | 웨이팅 | 포인트 |
+## 10/5 (월) — 첫 저녁: "굴이 메인"인 오이스터바 (숙소 백베이)
+| 순위 | 가게 | 굴 종류 | 예약/대기 | 숙소에서 | 메모 |
 |---|---|---|---|---|---|
-| **1** | **Row 34 – Kenmore Square** (498 Commonwealth Ave) | 도보 10~15분 / 그린라인 Kenmore역 앞 | **해피아워 월~금 16~18시 셰프 셀렉트 굴 $1** (1인 최대 12개, 바·라운지) | **예약 가능** (OpenTable, 617-213-7750) | 시포트 Row 34의 2호점. 월~금 16~22시 |
-| 2 | **Select Oyster Bar** (50 Gloucester St, 백베이) | 도보 5~10분 | 1인 $31~50 | 예약 가능 (857-239-8064) | 미쉐린 가이드 등재, "가장 신선한 굴" 평. 월 11:30~21:30 |
-| (참고) | Saltie Girl (백베이) | 도보권 | 1인 $100+ | 좌석 적어 대기 | 맛은 최고 평, 비싸고 작음 → 이번 조건엔 비추천 |
-| (저렴) | Petit Robert Bistro / The Berkeley / Rochambeau | 백베이 | 월요일 $1 굴 (각 16~18시 / 17시~ / 15~18시) | — | 굴만 싸게 맛보기 |
+| **1** | **Select Oyster Bar** (50 Gloucester St, 백베이) | 그날 들어온 굴 위주, "늘 가장 신선" 평 | **예약 가능** (857-239-8064) | 도보 5~10분 | 이름부터 굴집. 미쉐린 가이드 등재, 1인 $31~50. 월 11:30~21:30 |
+| **2** | **Neptune Oyster** (63 Salem St, 노스엔드) | **보스턴 최다 약 27종** (동·서부 굴 + 성게, 조개) | ❌ 예약 불가, 평일 저녁 40~80분 | 차 10~15분 | 굴 종류는 압도적. 대신 웨이팅 → **화요일 노스엔드 점심(11시 오픈)으로 돌리는 걸 추천** |
+| 3 | **Row 34** (켄모어 / 시포트 본점) | 약 10종, "일하는 사람들의 오이스터바" 콘셉트 | 예약 가능 | 켄모어 도보 10~15분 | 켄모어점 월~금 16~18시 셰프 셀렉트 굴 $1 (1인 12개) |
+| ✕ | B&G Oysters (사우스엔드) | — | — | — | **폐업** |
 
-→ **추천: 17:00 Row 34 Kenmore 바에서 $1 굴 해피아워 → 이어서 랍스터롤 등 식사.** 해피아워를 놓치면 Select Oyster Bar 예약.
-※ Island Creek Oyster Bar(켄모어)는 폐업, 그 자리가 Row 34 Kenmore.
+→ **추천: 월요일 저녁 = Select Oyster Bar 예약** (대기 없이 굴 위주로).
+→ **굴 종류를 최대한 맛보고 싶으면: 화요일 점심 = Neptune Oyster** (11시 오픈 직후 이름 걸기, 노스엔드 일정과 자연스럽게 연결).
 
 ## 10/6 (화) — 노스엔드 + 뉴베리 (오후·저녁 고정)
 | 시간 | 일정 |
@@ -64,17 +64,14 @@
 
 → 추천 코스: **1차 곱창스토리(식사) → 2차 명동1가(포차)**. 더 놀고 싶으면 3차 SOJUba.
 
-## 10/8 (목) — 하루 종일: 세일럼 (10월 한정)
-| 시간 | 일정 |
-|---|---|
-| 10:00 | 노스역(North Station) → **통근열차 32분** (편도 약 $7, 시간당 1대) — 술 마신 다음 날이라 운전 안 하는 게 편함 |
-| 11:00~16:00 | 10월 내내 **Haunted Happenings (할로윈 축제)**. 마녀 박물관, 마녀의 집, Essex Street 시장, 칠박공의 집(House of Seven Gables), 피바디 에섹스 박물관. **10월 전반 평일이라 덜 붐빔** |
-| 16:30 | 기차로 노스역 복귀 |
-| 18:00 | 노스역에서 걸어서 10분 → **Neptune Oyster** (마지막 날 저녁) |
+## 10/8 (목) — 하루 종일, 차로 근교 (3가지 중 택1)
+| 안 | 코스 | 이동 | 포인트 |
+|---|---|---|---|
+| **A. 노스쇼어 해안 (추천)** | 오전 **세일럼** → 오후 **록포트·글로스터** | 세일럼 40분, 록포트까지 +30분, 복귀 1시간 | 10월 세일럼 할로윈 분위기(평일 오전이라 덜 붐빔) + 바닷가 어촌 마을(Bearskin Neck 상점가, Halibut Point 해안 산책). 주차: 세일럼 **Museum Place Garage** 등 시 주차장 (10월엔 요금 인상, 무료 셔틀은 주말만) |
+| B. 콩코드·렉싱턴 + 사과 따기 | 렉싱턴 배틀그린 → 콩코드 올드노스브리지·월든 호수 → 하버드/스토우 과수원 사과 따기 | 30~40분 (Route 2) | **10월 초 사과 수확철 + 단풍**, 가장 여유로운 뉴잉글랜드 가을 코스 |
+| C. 화이트 마운틴 (NH) 단풍 | 캉카마구스 하이웨이 드라이브 | 편도 2.5시간 | 단풍은 최고지만 왕복 5시간 → 금요일 장거리 이동 앞두고 비추천 |
 
-**Neptune Oyster**: 보스턴 해산물 1순위 (Yelp 리뷰 6,800+). **예약 불가**, 평일 대기 약 30분(2인 이하가 빨리 앉음), 월~목 21:30까지. 버터 핫 랍스터롤 + 굴.
-
-**세일럼이 싫다면 목요일 대안**: 펜웨이 파크 투어 + 보스턴 미술관(MFA)/이사벨라 스튜어트 가드너 미술관, 또는 하버 크루즈 + 캐슬 아일랜드
+**목요일 저녁**: A안이면 록포트·글로스터 바닷가 해산물집에서 먹고 복귀, B안이면 백베이로 돌아와 저녁.
 
 ---
 
@@ -91,4 +88,5 @@
 - 파스타: [Yelp – Best Pasta North End](https://www.yelp.com/search?find_desc=best+pasta&find_loc=North+End%2C+Boston%2C+MA), [Giacomo's – Yelp](https://www.yelp.com/biz/giacomos-ristorante-boston-boston), [Giacomo's – OpenTable](https://www.opentable.com/r/giacomos-ristorante-north-end-boston)
 - 골프: [City of Boston Golf Rates](https://www.cityofbostongolf.com/course/rates), [carl.golf – George Wright](https://www.carl.golf/blog/george-wright-golf-course-review), [Golf Digest – Best Boston public courses](https://www.golfdigest.com/courses/guides/best-boston-public-courses), [Granite Links – Golf](https://www.granitelinks.com/golf)
 - 한국 술집: [Myung Dong 1st Ave – Yelp](https://www.yelp.com/biz/myung-dong-1st-ave-allston?start=180), [Gopchang Story – Yelp](https://www.yelp.com/biz/gopchang-story-boston), [SOJUba – Yelp](https://www.yelp.com/biz/sojuba-boston), [Yelp – Korean Pocha Boston](https://www.yelp.com/search?find_desc=Korean+Pocha&find_loc=Boston%2C+MA)
+- 굴·근교: [Boston Magazine – Best Raw Bars](https://www.bostonmagazine.com/restaurants/best-raw-bars-in-boston/), [Meet Boston – Top Oyster Spots](https://www.meetboston.com/blog/post/top-oysters-spots-in-boston/), [B&G Oysters (폐업) – Yelp](https://www.yelp.com/biz/b-and-g-oysters-boston), [Food Talk Central – Neptune 대기](https://www.foodtalkcentral.com/t/neptune-oyster/9295), [Salem 주차 – Haunted Happenings](https://www.hauntedhappenings.org/maps-info/parking-directions/), [Salem.org – Parking](https://www.salem.org/travel-info/parking/), [Pure Wander – Day trips from Boston](https://purewander.com/best-day-trips-from-boston-ma/), [Adventurous Kate – Day trips](https://www.adventurouskate.com/day-trips-from-boston/)
 - 세일럼: [Haunted Happenings – MBTA](https://www.hauntedhappenings.org/listing/mbta-train-bus-service/), [Salem station – Wikipedia](https://en.wikipedia.org/wiki/Salem_station_(MBTA)), [Tripadvisor – Salem October weekday](https://www.tripadvisor.com/ShowTopic-g60954-i1100-k15402647-Salem_on_an_October_weekday-Salem_Massachusetts.html)
