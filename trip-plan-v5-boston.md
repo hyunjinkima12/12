@@ -14,7 +14,7 @@
 | **월 10/5** | 허드슨 힐스 골프 | → ~16:00 도착, 차고 주차, 체크인 | 🦪 **Select Oyster Bar** (예약) | 우버 |
 | **화 10/6** | 퍼블릭 가든 → 커먼 → 프리덤 트레일 (도보) | 🍕 노스엔드 점심·카놀리 → 뉴베리 쇼핑 | 🍝 파스타 | 도보 + 우버/오렌지라인 |
 | **수 10/7** | ⛳ **George Wright** (차 20~25분) | 하버드·MIT | 🍻 **올스턴 한국 술집** | 차 → 저녁엔 우버 |
-| **목 10/8** | 🚗 **세일럼** | 🚗 **록포트·글로스터** | 바닷가 해산물 → 복귀 | 차 |
+| **목 10/8** | 🚗 **세일럼** | 🚗 **록포트·글로스터** → 17시 복귀 | 🥘 **스페인 음식: Barcelona Wine Bar or Toro** | 차 → 저녁 도보/우버 |
 | **금 10/9** | 체크아웃 → 출발 | | | 차 |
 
 ## 날짜별 상세
@@ -28,7 +28,7 @@
 |---|---|
 | 09:30 | 숙소에서 걸어서 **퍼블릭 가든 → 보스턴 커먼** (10분) → **프리덤 트레일** (주 의사당 → 올드 스테이트 하우스 → 패뉴얼홀/퀸시마켓) → 노스엔드까지 도보 |
 | 11:30 | 노스엔드: 폴 리비어 하우스·올드 노스 처치 → **점심** Regina Pizzeria(피자) 또는 Bricco Salumeria(샌드위치) |
-| 13:30 | 카놀리 (Mike's / Modern Pastry) |
+| 13:30 | 🧁 **Mike's Pastry** (300 Hanover St, 08~22시) — 평일 오후라 줄 짧음, **현금 준비** |
 | 14:30 | 오렌지라인 Haymarket → Back Bay (약 10분) or 우버 → **뉴베리 스트리트 쇼핑** (숙소와 가까워서 쇼핑백 중간에 내려놓기 가능) |
 | 19:00 | 🍝 **파스타 저녁** — 아래 중 택1 |
 
@@ -38,6 +38,7 @@
 | **SRV** | 사우스엔드 | 도보 15분 / 우버 5분 | 직접 제분한 밀가루로 만든 파스타, 베네치아풍 소품요리, 이탈리아 와인만. 서비스 평 좋음 |
 | **Sorellina** | 백베이 (코플리) | 도보 12분 | OpenTable "Exceptional"(리뷰 6,000+), 고급 |
 | **Carmelina's** | 노스엔드 | 우버 10~15분 | 4.5★(4,500+), 노스엔드 파스타 1순위, 예약 가능 |
+| **The Daily Catch** | 노스엔드 323 Hanover St | 우버 10~15분 | 1973년 시칠리아식 해산물 파스타, 18석 오픈키친. **예약 불가·현금만·21시 마감** → 가려면 17:30쯤 (쇼핑 후 바로) |
 | Giacomo's | 노스엔드 | 우버 10~15분 | 줄서기·현금만 |
 
 → 추천: **숙소 근처 SRV 또는 Sorellina** (노스엔드 두 번 왕복 안 해도 됨). 노스엔드 분위기 원하면 Carmelina's.
@@ -57,7 +58,13 @@
 | 09:30 | 출차 → **세일럼** (약 40분). 10월 할로윈 축제, 평일 오전이라 덜 붐빔. 주차: Museum Place Garage 등 시 주차장(10월 요금 인상) |
 | 10:30~13:30 | 마녀 박물관, Essex St 시장, 칠박공의 집 |
 | 14:00 | → **록포트** (약 30분): Bearskin Neck 상점가, Halibut Point 해안 산책 → 글로스터 항구 |
-| 18:00 | 바닷가 해산물 저녁 → 복귀 (약 1시간) |
+| 17:00 | 록포트 출발 → 숙소 복귀 (약 1시간 15분), 주차 |
+| 19:30 | 🥘 **스페인 음식 저녁** (아래 택1, 둘 다 사우스엔드·예약 가능) |
+
+| 식당 | 주소 | 숙소에서 | 영업(목) | 예약 | 메모 |
+|---|---|---|---|---|---|
+| **Barcelona Wine Bar** | 525 Tremont St | **도보 약 10분** | 16:00~23:00(마지막 착석) | ☎ 617-266-2600 / OpenTable | 타파스+스페인 와인, 편하고 활기찬 분위기 |
+| **Toro** | 1704 Washington St | 우버 5~7분 | 17:00~22:00 | ☎ 617-536-4300 / 웹 예약 | 미쉐린 가이드 등재, 보스턴 대표 타파스집 |
 
 ※ 대안: 콩코드·렉싱턴 + 사과 따기 (30~40분, 단풍·수확철)
 
@@ -65,8 +72,9 @@
 - 체크아웃 → 차고 출차 → 출발
 
 ## 남은 결정
-1. 화요일 파스타: **숙소 근처(SRV/Sorellina)** vs 노스엔드(Carmelina's)?
-2. 목요일: 노스쇼어(세일럼+록포트) vs 콩코드·사과 따기?
+1. 화요일 파스타: 숙소 근처(SRV/Sorellina) vs 노스엔드(Carmelina's / **The Daily Catch**)?
+2. 목요일 저녁: **Barcelona Wine Bar**(도보) vs **Toro**(미쉐린)?
+3. 목요일 낮: 노스쇼어(세일럼+록포트) vs 콩코드·사과 따기?
 
 ## 출처
 - 숙소/주차: [Premier Suites Bay Village – Yelp](https://www.yelp.com/biz/bay-village-premier-suites-boston), [Booking.com](https://www.booking.com/hotel/us/bay-village-suites-boston.html), [SpotHero – Bay Village](https://spothero.com/destination/boston/bay-village-parking), [SpotAngels – Bay Village](https://www.spotangels.com/boston/bay-village-parking)
@@ -74,4 +82,5 @@
 - 파스타: [The Infatuation – Pasta Boston](https://www.theinfatuation.com/boston/cuisines/pasta), [Boston Magazine – Best Italian](https://www.bostonmagazine.com/restaurants/best-italian-restaurants-boston/), [Yelp – Best Pasta North End](https://www.yelp.com/search?find_desc=best+pasta&find_loc=North+End%2C+Boston%2C+MA), [Giacomo's – Yelp](https://www.yelp.com/biz/giacomos-ristorante-boston-boston)
 - 골프: [City of Boston Golf](https://www.cityofbostongolf.com/course/rates), [Golf Digest – Best Boston public](https://www.golfdigest.com/courses/guides/best-boston-public-courses)
 - 한국 술집: [Gopchang Story – Yelp](https://www.yelp.com/biz/gopchang-story-boston), [Myung Dong 1st Ave – Yelp](https://www.yelp.com/biz/myung-dong-1st-ave-allston?start=180), [SOJUba – Yelp](https://www.yelp.com/biz/sojuba-boston)
+- 목 저녁/디저트: [Toro – Reservations](https://www.toro-restaurant.com/reservations), [Toro – Michelin](https://guide.michelin.com/us/en/massachusetts/boston_2914838/restaurant/toro), [Barcelona South End – OpenTable](https://www.opentable.com/r/barcelona-wine-bar-south-end-boston), [Barcelona – Yelp](https://www.yelp.com/biz/barcelona-wine-bar-south-end-boston-6), [Daily Catch North End](https://thedailycatch.com/location/north-end/), [Daily Catch – Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g60745-d323002-Reviews-The_Daily_Catch_North_End-Boston_Massachusetts.html), [Mike's Pastry – Yelp](https://www.yelp.com/biz/mikes-pastry-boston)
 - 근교: [Salem 주차](https://www.hauntedhappenings.org/maps-info/parking-directions/), [Salem.org – Parking](https://www.salem.org/travel-info/parking/), [Pure Wander – Day trips](https://purewander.com/best-day-trips-from-boston-ma/)
